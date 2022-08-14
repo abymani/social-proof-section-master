@@ -50,6 +50,7 @@ main .rating-container {
      position: absolute;  
     padding-left: 0px;
     padding-right: 80px;
+    margin-top: 35px;
     display: flex;
     flex-direction: column;
     justify-content: center;
